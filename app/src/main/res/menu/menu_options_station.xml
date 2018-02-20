@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stationAdd"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="always"
+        android:title="@string/add_radio_station"
+        />
+
+    <item
+        android:id="@+id/menuAppExit"
+        android:title="@string/beenden"
+        />
+
+    <item
+        android:id="@+id/menuSettings"
+        android:title="@string/settings" />
+</menu>

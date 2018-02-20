@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stationWebsite"
+        android:title="@string/goto_to_the_website" />
+
+    <item
+        android:id="@+id/stationParameter"
+        android:title="@string/show_the_parameters_of_the_station" />
+
+    <item
+        android:id="@+id/deleteStation"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:showAsAction="always"
+        android:title="@string/delete_radio_station" />
+</menu>
